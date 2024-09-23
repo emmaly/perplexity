@@ -1,5 +1,7 @@
 # Perplexity Go Client
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/emmaly/perplexity.svg)](https://pkg.go.dev/github.com/emmaly/perplexity)
+
 A Go client library for interacting with the [Perplexity AI API](https://docs.perplexity.ai/api-reference/chat-completions).
 
 ## Installation
